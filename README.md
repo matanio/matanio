@@ -1,5 +1,3 @@
 Hey there! 👋
 
-I'm Matan.
-
-A Software Engineer in the making - I'm currently studying at the University of Auckland.
+I'm Matan - Software Engineer in the making, currently studying at the University of Auckland.
