@@ -5,7 +5,7 @@ I'm Matan - a Software Engineer in the making, currently studying at the Univers
 In here you'll find side projects I have worked on to help with my learning. They can be seperated into the categories of:
 
 Games
-- Vanilla Snake (w.i.p)
+- Vanilla Snake
 - Simon+
 - TicTacToe+ (w.i.p)
 
