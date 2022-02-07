@@ -10,7 +10,7 @@ Games
 - TicTacToe+ (w.i.p)
 
 Tools
-- Calculator (w.i.p)
+- Billo (w.i.p)
 - Thyme (w.i.p) 
 
 Visualisation
