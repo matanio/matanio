@@ -1,4 +1,4 @@
-##### Hey there! 👋
+#### Hey there! 👋
 
 I'm Matan - a Software Engineer in the making, with a passion for all things code!! 
 
