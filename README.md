@@ -4,22 +4,6 @@ I'm Matan - a Software Engineer in the making, with a passion for all things cod
 
 I'm currently studying at the University of Auckland, where I'm completeing my Bachelor of Software Engineering (Hons). 
 
-In here you'll find side projects I have worked on to help with my learning. They can be seperated into the categories of:
+In here you'll find projects I have worked on over the past few years!
 
-###### Games
-- Vanilla Snake
-- Simon+
-- TicTacToe+ (w.i.p)
-
-###### Tools
-- Billo (w.i.p)
-- Thyme (w.i.p) 
-
-###### Visualisation
-- Howlgo (w.i.p)
-- Seetify (w.i.p)
-
-###### Full-Stack
-- Thrilld (w.i.p)
-- Oble (w.i.p)
-- Lumir (w.i.p)
+As an upcoming Software Engineer, I am always looking for ways to improve - so any feedback is much appreciated!
