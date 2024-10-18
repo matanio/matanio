@@ -1,7 +1,5 @@
 ### Hi 👋
 
-I'm Matan - a Software Engineer based in New Zealand.
+I'm Matan - a Software Engineer and recent graduate from the University of Auckland.
 
-The TLDR? I like to build things.
-
-Here you'll find the projects, experiments and packages that I've built so far.
+I like to build things — here you'll find the projects, experiments and packages that I've built so far.
